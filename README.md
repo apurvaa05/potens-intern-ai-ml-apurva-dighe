@@ -166,49 +166,30 @@ The LLM returns:
 
 ## Home Interface
 
-Add screenshot here:
-
-```text
-screenshots/home.jpeg
-```
+![Home Interface](screenshots/home.jpeg)
 
 ---
 
 ## Multilingual Query Example
 
-Add screenshot here:
-
-```text
-screenshots/hindi-query.jpeg
-```
+![Hindi Query](screenshots/hindi-query.jpeg)
 
 ---
 
 ## Citation-Based Retrieval
 
-Add screenshot here:
+![Citations](screenshots/sol1.jpeg)
 
-```text
-screenshots/sol1.jpeg
-```
+![Citations](screenshots/sol2.jpeg)
 
-```text
-screenshots/sol2.jpeg
-```
 
 ---
 
 ## Contradiction Analysis
 
-Add screenshot here:
+![Contradiction](screenshots/contradiction.jpeg)
 
-```text
-screenshots/contradiction.jpeg
-```
-
-```text
-screenshots/contradiction2.jpeg
-```
+![Contradiction](screenshots/contradiction2.jpeg)
 ---
 
 # How to Run
@@ -357,16 +338,11 @@ If I had more time, I would improve the project further by:
 
 # AI Use Log
 
-| Tool           | Approx Usage | Purpose                                                                             
-
-
-| ChatGPT        | Moderate        | Debugging, multilingual retrieval, UI improvements, contradiction analysis |
-
-| GitHub Copilot | Minimal      | Small code suggestions                                                                        
-|
-
-| OpenRouter     | Minimal     | LLM-based answer generation                                                                     |
-
+| Tool           | Approx Usage | Purpose                                                                                         |
+| -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
+| ChatGPT        | Heavy        | Architecture design, debugging, multilingual retrieval, UI improvements, contradiction analysis |
+| GitHub Copilot | Minimal      | Small code suggestions                                                                          |
+| OpenRouter     | Moderate     | LLM-based answer generation                                                                     |
 ---
 
 # Design Decisions
