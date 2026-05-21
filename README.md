@@ -340,9 +340,9 @@ If I had more time, I would improve the project further by:
 
 | Tool           | Approx Usage | Purpose                                                                                         |
 | -------------- | ------------ | ----------------------------------------------------------------------------------------------- |
-| ChatGPT        | Heavy        | Architecture design, debugging, multilingual retrieval, UI improvements, contradiction analysis |
+| ChatGPT        | Moderate        | Debugging, multilingual retrieval, UI improvements, contradiction analysis |
 | GitHub Copilot | Minimal      | Small code suggestions                                                                          |
-| OpenRouter     | Moderate     | LLM-based answer generation                                                                     |
+| OpenRouter     | Minimal     | LLM-based answer generation                                                                     |
 ---
 
 # Design Decisions
