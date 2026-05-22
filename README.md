@@ -197,7 +197,7 @@ The LLM returns:
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/apurvaa05/potens-intern-ai-ml-apurva-dighe>
 ```
 
 ---
@@ -233,7 +233,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```env
-OPENROUTER_API_KEY=your_api_key
+OPENROUTER_API_KEY=your_api_key_here
 ```
 
 ---
